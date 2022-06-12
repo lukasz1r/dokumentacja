@@ -1,4 +1,4 @@
 <map id="Komendy.usunLotnisko" name="Komendy.usunLotnisko">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node2" href="$class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32" title=" " alt="" coords="212,5,344,32"/>
+<area shape="rect" id="node1" title="Metoda usunLotnisko usuwa obiekt lotniska." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32" title="Metoda getNazwa wypisuje nazwę lotniska." alt="" coords="212,5,344,32"/>
 </map>

@@ -1,5 +1,5 @@
-<map id="Trasa.zakup" name="Trasa.zakup">
-<area shape="rect" id="node1" title="Metoda zakup kontroluje ilość dostępnych miejsc na trasie, usuwając kolejne miejsce po dokonaniu zaku..." alt="" coords="219,31,312,57"/>
+<map id="Trasa.getIloscMiejsc" name="Trasa.getIloscMiejsc">
+<area shape="rect" id="node1" title="Metoda getIloscMiejsc zwraca ilość miejsc." alt="" coords="219,31,360,57"/>
 <area shape="rect" id="node2" href="$class_posrednik.html#aec3b936c144f1c5e5103b74f1814f689" title="Metoda rezerwacji biletów przez pośrednika." alt="" coords="5,5,171,32"/>
 <area shape="rect" id="node3" href="$class_klient.html#a7855db707649e6b89639aa406c58c663" title="Metoda rezerwowania lotów." alt="" coords="25,56,151,83"/>
 </map>

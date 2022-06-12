@@ -1,6 +1,6 @@
 <map id="Klient.getNazwisko" name="Klient.getNazwisko">
-<area shape="rect" id="node1" title=" " alt="" coords="399,31,532,57"/>
-<area shape="rect" id="node2" href="$class_komendy.html#a5b931d60623812263fdbfeeb1a2b566c" title=" " alt="" coords="177,5,326,32"/>
-<area shape="rect" id="node4" href="$class_komendy.html#a186ddaa14e107b8d200ff6f79b569784" title=" " alt="" coords="152,56,351,83"/>
+<area shape="rect" id="node1" title="Metoda getNazwisko zwracająca nazwisko klienta." alt="" coords="399,31,532,57"/>
+<area shape="rect" id="node2" href="$class_komendy.html#a5b931d60623812263fdbfeeb1a2b566c" title="Metoda usunKlienta usuwa klienta." alt="" coords="177,5,326,32"/>
+<area shape="rect" id="node4" href="$class_komendy.html#a186ddaa14e107b8d200ff6f79b569784" title="Metoda wybierzUzytkownika umożliwia zalogowanie się do systemu." alt="" coords="152,56,351,83"/>
 <area shape="rect" id="node3" href="$class_interfejs.html#ae2b210df31de22f230f46011fd1943d1" title=" " alt="" coords="5,31,104,57"/>
 </map>

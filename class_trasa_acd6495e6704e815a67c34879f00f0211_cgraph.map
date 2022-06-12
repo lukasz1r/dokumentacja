@@ -1,4 +1,4 @@
 <map id="Trasa.toString" name="Trasa.toString">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,108,32"/>
-<area shape="rect" id="node2" href="$class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32" title=" " alt="" coords="156,5,288,32"/>
+<area shape="rect" id="node1" title="Metoda toString wypisuje lotnisko początkowe i końcowe." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32" title="Metoda getNazwa wypisuje nazwę lotniska." alt="" coords="156,5,288,32"/>
 </map>

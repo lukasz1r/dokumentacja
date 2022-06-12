@@ -1,6 +1,6 @@
 <map id="Komendy.wybierzUzytkownika" name="Komendy.wybierzUzytkownika">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,204,83"/>
-<area shape="rect" id="node2" href="$class_klient.html#ad8c04e94a271d2365f439b3ebcad3291" title=" " alt="" coords="268,5,369,32"/>
-<area shape="rect" id="node3" href="$class_klient.html#acfae5da429faaaeb274426313b730c2f" title=" " alt="" coords="252,56,385,83"/>
-<area shape="rect" id="node4" href="$class_klient.html#a236f9c17cdb2c4542b6ef219f9824de8" title=" " alt="" coords="259,107,379,133"/>
+<area shape="rect" id="node1" title="Metoda wybierzUzytkownika umożliwia zalogowanie się do systemu." alt="" coords="5,56,204,83"/>
+<area shape="rect" id="node2" href="$class_klient.html#ad8c04e94a271d2365f439b3ebcad3291" title="Metoda getImie zwracająca imie klienta." alt="" coords="268,5,369,32"/>
+<area shape="rect" id="node3" href="$class_klient.html#acfae5da429faaaeb274426313b730c2f" title="Metoda getNazwisko zwracająca nazwisko klienta." alt="" coords="252,56,385,83"/>
+<area shape="rect" id="node4" href="$class_klient.html#a236f9c17cdb2c4542b6ef219f9824de8" title="Metoda getPESEL zwracająca pesel klienta." alt="" coords="259,107,379,133"/>
 </map>

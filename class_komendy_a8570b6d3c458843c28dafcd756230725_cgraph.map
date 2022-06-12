@@ -1,4 +1,4 @@
 <map id="Komendy.usunPosrednika" name="Komendy.usunPosrednika">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,180,32"/>
-<area shape="rect" id="node2" href="$class_posrednik.html#a96524cb20940dfefc76fa85abd462dc3" title=" " alt="" coords="228,5,369,32"/>
+<area shape="rect" id="node1" title="Metoda usunPosrednika usuwa pośrednika." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$class_posrednik.html#a96524cb20940dfefc76fa85abd462dc3" title="Metoda getNazwa zwracająca nazwę pośrednika." alt="" coords="228,5,369,32"/>
 </map>

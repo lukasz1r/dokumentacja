@@ -1,7 +1,8 @@
 <map id="Klient.rezerwujLot" name="Klient.rezerwujLot">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,131,108"/>
-<area shape="rect" id="node2" href="$class_trasa.html#aa87b142a66f66dc3427c2c4cba879e6a" title=" " alt="" coords="187,5,303,32"/>
-<area shape="rect" id="node3" href="$class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32" title=" " alt="" coords="179,56,311,83"/>
-<area shape="rect" id="node4" href="$class_trasa.html#a1c6845c408e9034375569d05c052490c" title=" " alt="" coords="179,107,310,133"/>
-<area shape="rect" id="node5" href="$class_trasa.html#a922c73e2e28a7cc1bfd55869df225954" title=" " alt="" coords="198,157,291,184"/>
+<area shape="rect" id="node1" title="Metoda rezerwowania lotów." alt="" coords="5,107,131,133"/>
+<area shape="rect" id="node2" href="$class_trasa.html#aa9a46f482b79ef7f36b982f81fcc3a6b" title="Metoda getIloscMiejsc zwraca ilość miejsc." alt="" coords="179,5,320,32"/>
+<area shape="rect" id="node3" href="$class_trasa.html#aa87b142a66f66dc3427c2c4cba879e6a" title="Metoda getKoniec zwraca lotnisko końcowe." alt="" coords="191,56,307,83"/>
+<area shape="rect" id="node4" href="$class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32" title="Metoda getNazwa wypisuje nazwę lotniska." alt="" coords="183,107,315,133"/>
+<area shape="rect" id="node5" href="$class_trasa.html#a1c6845c408e9034375569d05c052490c" title="Metoda getPoczatek zwraca lotnisko startowe." alt="" coords="184,157,315,184"/>
+<area shape="rect" id="node6" href="$class_trasa.html#a922c73e2e28a7cc1bfd55869df225954" title="Metoda zakup kontroluje ilość dostępnych miejsc na trasie, usuwając kolejne miejsce po dokonaniu zaku..." alt="" coords="203,208,296,235"/>
 </map>

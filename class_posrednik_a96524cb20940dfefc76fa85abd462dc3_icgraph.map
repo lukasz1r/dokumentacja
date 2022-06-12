@@ -1,5 +1,5 @@
 <map id="Posrednik.getNazwa" name="Posrednik.getNazwa">
-<area shape="rect" id="node1" title=" " alt="" coords="375,5,516,32"/>
-<area shape="rect" id="node2" href="$class_komendy.html#a8570b6d3c458843c28dafcd756230725" title=" " alt="" coords="152,5,327,32"/>
+<area shape="rect" id="node1" title="Metoda getNazwa zwracająca nazwę pośrednika." alt="" coords="375,5,516,32"/>
+<area shape="rect" id="node2" href="$class_komendy.html#a8570b6d3c458843c28dafcd756230725" title="Metoda usunPosrednika usuwa pośrednika." alt="" coords="152,5,327,32"/>
 <area shape="rect" id="node3" href="$class_interfejs.html#ae2b210df31de22f230f46011fd1943d1" title=" " alt="" coords="5,5,104,32"/>
 </map>

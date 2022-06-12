@@ -24,19 +24,19 @@
 */
 var NAVTREE =
 [
-  [ "My Project", "index.html", [
-    [ "Classes", "annotated.html", [
-      [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+  [ "Kontrola Lotów", "index.html", [
+    [ "Klasy", "annotated.html", [
+      [ "Lista klas", "annotated.html", "annotated_dup" ],
+      [ "Indeks klas", "classes.html", null ],
+      [ "Hierarchia klas", "hierarchy.html", "hierarchy" ],
+      [ "Składowe klas", "functions.html", [
+        [ "Wszystko", "functions.html", null ],
+        [ "Funkcje", "functions_func.html", null ],
+        [ "Zmienne", "functions_vars.html", null ]
       ] ]
     ] ],
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ]
+    [ "Pliki", "files.html", [
+      [ "Lista plików", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];

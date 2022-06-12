@@ -1,0 +1,5 @@
+<map id="Trasa.Trasa" name="Trasa.Trasa">
+<area shape="rect" id="node1" title="Konstruktor trasy." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$class_lotnisko.html#aea3418556f71c8923623dccfdeb26e8f" title="Metoda getX wypisuje współrzędną X lotniska." alt="" coords="145,5,245,32"/>
+<area shape="rect" id="node3" href="$class_lotnisko.html#a44683abce4554ccdc3a384ba5be8d974" title="Metoda getY wypisuje współrzędną Y lotniska." alt="" coords="144,56,247,83"/>
+</map>

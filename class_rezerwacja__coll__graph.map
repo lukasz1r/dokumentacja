@@ -1,3 +1,7 @@
 <map id="Rezerwacja" name="Rezerwacja">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,115,112"/>
+<area shape="rect" id="node1" title=" " alt="" coords="283,593,392,700"/>
+<area shape="rect" id="node2" href="$class_trasa.html" title=" " alt="" coords="167,248,321,531"/>
+<area shape="rect" id="node3" href="$class_lotnisko.html" title=" " alt="" coords="5,5,104,171"/>
+<area shape="rect" id="node4" href="$class_maszyna.html" title=" " alt="" coords="129,20,234,156"/>
+<area shape="rect" id="node5" href="$class_czas.html" title="Konstruktor czasu wylotu." alt="" coords="330,20,438,156"/>
 </map>

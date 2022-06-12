@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['nazwa_0',['nazwa',['../class_maszyna.html#a7c9500f183f3b5dd330f70edfed48076',1,'Maszyna']]]
+  ['lotniska_0',['Lotniska',['../class_baza_danych.html#a7444ae89e31edd27a81463ddf7e55ba6',1,'BazaDanych']]]
 ];

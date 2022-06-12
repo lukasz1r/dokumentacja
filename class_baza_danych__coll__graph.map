@@ -1,9 +1,10 @@
 <map id="BazaDanych" name="BazaDanych">
-<area shape="rect" id="node1" title=" " alt="" coords="347,145,473,296"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,121,83"/>
-<area shape="rect" id="node3" title=" " alt="" coords="146,5,266,83"/>
-<area shape="rect" id="node4" title=" " alt="" coords="290,5,389,83"/>
-<area shape="rect" id="node5" title=" " alt="" coords="413,5,548,83"/>
-<area shape="rect" id="node6" title=" " alt="" coords="572,5,672,83"/>
-<area shape="rect" id="node7" title=" " alt="" coords="697,5,822,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="345,285,472,436"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,145,121,223"/>
+<area shape="rect" id="node3" title=" " alt="" coords="373,5,415,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="146,145,266,223"/>
+<area shape="rect" id="node5" title=" " alt="" coords="290,145,389,223"/>
+<area shape="rect" id="node6" title=" " alt="" coords="413,145,548,223"/>
+<area shape="rect" id="node7" title=" " alt="" coords="572,145,672,223"/>
+<area shape="rect" id="node8" title=" " alt="" coords="697,145,822,223"/>
 </map>

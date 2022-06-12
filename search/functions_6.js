@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['wczytywanie_0',['wczytywanie',['../class_komendy.html#ad82f1e5e917657e5f05edcde5d8b439e',1,'Komendy']]],
-  ['wybierzuzytkownika_1',['wybierzUzytkownika',['../class_komendy.html#a186ddaa14e107b8d200ff6f79b569784',1,'Komendy']]]
+  ['pomoc_0',['Pomoc',['../class_pomoc.html#aeb43046c35802e11b362dd0730f2aaf7',1,'Pomoc']]],
+  ['posrednik_1',['Posrednik',['../class_posrednik.html#af8cd87c0cdd02191d5f465e2ce31964c',1,'Posrednik']]]
 ];

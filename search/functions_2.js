@@ -1,4 +1,29 @@
 var searchData=
 [
-  ['main_0',['main',['../class_interfejs.html#ae2b210df31de22f230f46011fd1943d1',1,'Interfejs']]]
+  ['getcena_0',['getCena',['../class_trasa.html#aa56415701727f2a5213330c387dc65cc',1,'Trasa']]],
+  ['getczas_1',['getCzas',['../class_trasa.html#a3a47a7f61693faabec0c6ef58c4a58d6',1,'Trasa']]],
+  ['getczestotliwosc_2',['getCzestotliwosc',['../class_trasa.html#a089070a29c0787e1f527773a69687de2',1,'Trasa']]],
+  ['getgodzina_3',['getGodzina',['../class_czas.html#a1953adf903f7392b8bdb90e27f463b9f',1,'Czas']]],
+  ['getiloscmiejsc_4',['getIloscMiejsc',['../class_trasa.html#aa9a46f482b79ef7f36b982f81fcc3a6b',1,'Trasa']]],
+  ['getimie_5',['getImie',['../class_klient.html#ad8c04e94a271d2365f439b3ebcad3291',1,'Klient']]],
+  ['getintczestotliwosc_6',['getIntCzestotliwosc',['../class_trasa.html#acd2a64cfda38b42802a8461bc07acfc1',1,'Trasa']]],
+  ['getklienci_7',['getKlienci',['../class_baza_danych.html#a5f305a604187aad65684851301110f2b',1,'BazaDanych']]],
+  ['getkoniec_8',['getKoniec',['../class_trasa.html#aa87b142a66f66dc3427c2c4cba879e6a',1,'Trasa']]],
+  ['getlotniska_9',['getLotniska',['../class_baza_danych.html#a717568bc5e19108e162df5d2666db14d',1,'BazaDanych']]],
+  ['getmaszyna_10',['getMaszyna',['../class_trasa.html#ae9be3ff8cf69875236838c3b47fefacc',1,'Trasa']]],
+  ['getmiejsca_11',['getMiejsca',['../class_maszyna.html#a9c2a90051e4879f7b8c4571b59425fef',1,'Maszyna']]],
+  ['getminuta_12',['getMinuta',['../class_czas.html#afc55aeb3eb2d4dfc3fcb4c0d1951b3be',1,'Czas']]],
+  ['getnazwa_13',['getNazwa',['../class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32',1,'Lotnisko.getNazwa()'],['../class_maszyna.html#ae975487738340d2b99a881a045067e95',1,'Maszyna.getNazwa()'],['../class_posrednik.html#a96524cb20940dfefc76fa85abd462dc3',1,'Posrednik.getNazwa()']]],
+  ['getnazwisko_14',['getNazwisko',['../class_klient.html#acfae5da429faaaeb274426313b730c2f',1,'Klient']]],
+  ['getodleglosc_15',['getOdleglosc',['../class_trasa.html#a29dbbbdb17b643dbb15fc74bce31f098',1,'Trasa']]],
+  ['getpesel_16',['getPESEL',['../class_klient.html#a236f9c17cdb2c4542b6ef219f9824de8',1,'Klient']]],
+  ['getpoczatek_17',['getPoczatek',['../class_trasa.html#a1c6845c408e9034375569d05c052490c',1,'Trasa']]],
+  ['getposrednicy_18',['getPosrednicy',['../class_baza_danych.html#a0ec7b050849e82a0ff8bf2115df40689',1,'BazaDanych']]],
+  ['getrezerwacje_19',['getRezerwacje',['../class_baza_danych.html#aa27188d42ad3674691562c85b4fc17b7',1,'BazaDanych']]],
+  ['getsamoloty_20',['getSamoloty',['../class_baza_danych.html#a90ad5181e5d2cd466cf6da1e3bc8040c',1,'BazaDanych']]],
+  ['gettrasa_21',['getTrasa',['../class_rezerwacja.html#a5b070a06f91574b1383ca80150006977',1,'Rezerwacja']]],
+  ['gettrasy_22',['getTrasy',['../class_baza_danych.html#a0606ea25edd150166587a3c7bea1c2dc',1,'BazaDanych']]],
+  ['getx_23',['getX',['../class_lotnisko.html#aea3418556f71c8923623dccfdeb26e8f',1,'Lotnisko.getX()'],['../class_pomoc.html#a99475ee6587e9149604d2e29e4cc041e',1,'Pomoc.getX()']]],
+  ['gety_24',['getY',['../class_lotnisko.html#a44683abce4554ccdc3a384ba5be8d974',1,'Lotnisko.getY()'],['../class_pomoc.html#a4fe4246ec07ce198344032e22a3588ce',1,'Pomoc.getY()']]],
+  ['getzasieg_25',['getZasieg',['../class_maszyna.html#aa8dd1ddde7dbcfe1e1f8840c3a52cb1c',1,'Maszyna']]]
 ];

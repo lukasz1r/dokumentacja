@@ -1,5 +1,4 @@
 var class_sredni_samolot =
 [
-    [ "iloscMiejsc", "class_sredni_samolot.html#a77ccb9fec867385acff32a5f1111adb8", null ],
-    [ "zasieg", "class_sredni_samolot.html#adc2db43380a675973da94c8ad9585c13", null ]
+    [ "SredniSamolot", "class_sredni_samolot.html#a077ce66c3ed84b61caffb5018a8365d9", null ]
 ];

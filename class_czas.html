@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.4"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Kontrola Lotów: Dokumentacja klasy Czas</title>
+<title>Obsługa Lotnisk: Dokumentacja klasy Czas</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -25,7 +25,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">Kontrola Lotów
+   <div id="projectname">Obsługa Lotnisk
    </div>
   </td>
  </tr>
@@ -84,6 +84,8 @@ $(document).ready(function(){initNavTree('class_czas.html',''); initResizable();
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Metody publiczne</a> &#124;
+<a href="#pac-methods">Funkcje pakietu</a> &#124;
+<a href="#pri-attribs">Atrybuty prywatne</a> &#124;
 <a href="class_czas-members.html">Lista wszystkich składowych</a>  </div>
   <div class="headertitle"><div class="title">Dokumentacja klasy Czas</div></div>
 </div><!--header-->
@@ -96,7 +98,7 @@ Diagram współpracy dla Czas:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_czas__coll__graph.png" border="0" usemap="#a_czas_coll__map" alt="Collaboration graph"/></div>
 <map name="a_czas_coll__map" id="a_czas_coll__map">
-<area shape="rect" title="Konstruktor czasu wylotu." alt="" coords="5,5,113,127"/>
+<area shape="rect" title="Konstruktor czasu wylotu." alt="" coords="5,5,113,141"/>
 </map>
 </div>
 <table class="memberdecls">
@@ -111,6 +113,18 @@ Metody publiczne</h2></td></tr>
 <tr class="memitem:a079abeac995d47c272cb95ca338c1867"><td class="memItemLeft" align="right" valign="top">String&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_czas.html#a079abeac995d47c272cb95ca338c1867">toString</a> ()</td></tr>
 <tr class="memdesc:a079abeac995d47c272cb95ca338c1867"><td class="mdescLeft">&#160;</td><td class="mdescRight">Metoda toString zwraca parametry czasu.  <a href="class_czas.html#a079abeac995d47c272cb95ca338c1867">Więcej...</a><br /></td></tr>
 <tr class="separator:a079abeac995d47c272cb95ca338c1867"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pac-methods" name="pac-methods"></a>
+Funkcje pakietu</h2></td></tr>
+<tr class="memitem:a8288c4f45b137312545b2d5bd09663f7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_czas.html#a8288c4f45b137312545b2d5bd09663f7">Czas</a> (int <a class="el" href="class_czas.html#ad5b0f584d322c7e2c458e8dd8af2a688">godzina</a>, int <a class="el" href="class_czas.html#ab3c7932af465826a72df78e43dd1afa6">minuta</a>)</td></tr>
+<tr class="separator:a8288c4f45b137312545b2d5bd09663f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Atrybuty prywatne</h2></td></tr>
+<tr class="memitem:ad5b0f584d322c7e2c458e8dd8af2a688"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_czas.html#ad5b0f584d322c7e2c458e8dd8af2a688">godzina</a></td></tr>
+<tr class="separator:ad5b0f584d322c7e2c458e8dd8af2a688"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3c7932af465826a72df78e43dd1afa6"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_czas.html#ab3c7932af465826a72df78e43dd1afa6">minuta</a></td></tr>
+<tr class="separator:ab3c7932af465826a72df78e43dd1afa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Opis szczegółowy</h2>
 <div class="textblock"><p >Konstruktor czasu wylotu. </p>
@@ -122,7 +136,44 @@ godzina - godzina wylotu </li>
 <li>
 minuta - minuta wylotu </li>
 </ul>
-</div><h2 class="groupheader">Dokumentacja funkcji składowych</h2>
+</div><h2 class="groupheader">Dokumentacja konstruktora i destruktora</h2>
+<a id="a8288c4f45b137312545b2d5bd09663f7" name="a8288c4f45b137312545b2d5bd09663f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8288c4f45b137312545b2d5bd09663f7">&#9670;&nbsp;</a></span>Czas()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Czas.Czas </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>godzina</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>minuta</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">package</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja funkcji składowych</h2>
 <a id="a1953adf903f7392b8bdb90e27f463b9f" name="a1953adf903f7392b8bdb90e27f463b9f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a1953adf903f7392b8bdb90e27f463b9f">&#9670;&nbsp;</a></span>getGodzina()</h2>
 
@@ -177,6 +228,51 @@ minuta - minuta wylotu </li>
 </div><div class="memdoc">
 
 <p>Metoda toString zwraca parametry czasu. </p>
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja atrybutów składowych</h2>
+<a id="ad5b0f584d322c7e2c458e8dd8af2a688" name="ad5b0f584d322c7e2c458e8dd8af2a688"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5b0f584d322c7e2c458e8dd8af2a688">&#9670;&nbsp;</a></span>godzina</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Czas.godzina</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab3c7932af465826a72df78e43dd1afa6" name="ab3c7932af465826a72df78e43dd1afa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3c7932af465826a72df78e43dd1afa6">&#9670;&nbsp;</a></span>minuta</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Czas.minuta</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>

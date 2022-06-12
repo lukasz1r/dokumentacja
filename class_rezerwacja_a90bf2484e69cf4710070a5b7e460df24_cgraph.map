@@ -1,0 +1,5 @@
+<map id="Rezerwacja.Rezerwacja" name="Rezerwacja.Rezerwacja">
+<area shape="rect" id="node1" title="Konstruktor rezerwacji." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="node2" href="$class_trasa.html#aa56415701727f2a5213330c387dc65cc" title="Metoda getCena zwraca cenę biletu." alt="" coords="213,5,320,32"/>
+<area shape="rect" id="node3" href="$class_trasa.html#a3a47a7f61693faabec0c6ef58c4a58d6" title="Metoda getCzas zwraca ilość czas trwania lotu." alt="" coords="213,56,320,83"/>
+</map>

@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['srednisamolot_0',['SredniSamolot',['../class_sredni_samolot.html',1,'']]],
-  ['srednisamolot_2ejava_1',['SredniSamolot.java',['../_sredni_samolot_8java.html',1,'']]]
+  ['rezerwacja_0',['Rezerwacja',['../class_rezerwacja.html',1,'Rezerwacja'],['../class_rezerwacja.html#a90bf2484e69cf4710070a5b7e460df24',1,'Rezerwacja.Rezerwacja()']]],
+  ['rezerwacja_2ejava_1',['Rezerwacja.java',['../_rezerwacja_8java.html',1,'']]],
+  ['rezerwacje_2',['Rezerwacje',['../class_baza_danych.html#a93695fb9f18963904f638caee03f2ea8',1,'BazaDanych']]],
+  ['rezerwujbilety_3',['rezerwujBilety',['../class_posrednik.html#aec3b936c144f1c5e5103b74f1814f689',1,'Posrednik']]],
+  ['rezerwujlot_4',['rezerwujLot',['../class_klient.html#a7855db707649e6b89639aa406c58c663',1,'Klient']]]
 ];

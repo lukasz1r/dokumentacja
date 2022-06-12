@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['rezerwujbilety_0',['rezerwujBilety',['../class_posrednik.html#aec3b936c144f1c5e5103b74f1814f689',1,'Posrednik']]],
-  ['rezerwujlot_1',['rezerwujLot',['../class_klient.html#a7855db707649e6b89639aa406c58c663',1,'Klient']]]
+  ['klient_0',['Klient',['../class_klient.html#afa618dbeba7111f51db67c3aa3a31712',1,'Klient']]]
 ];

@@ -1,3 +1,6 @@
 <map id="Trasa" name="Trasa">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,160,244"/>
+<area shape="rect" id="node1" title=" " alt="" coords="104,248,259,531"/>
+<area shape="rect" id="node2" href="$class_lotnisko.html" title=" " alt="" coords="5,5,104,171"/>
+<area shape="rect" id="node3" href="$class_maszyna.html" title=" " alt="" coords="129,20,234,156"/>
+<area shape="rect" id="node4" href="$class_czas.html" title="Konstruktor czasu wylotu." alt="" coords="283,20,391,156"/>
 </map>

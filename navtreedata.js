@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Kontrola Lotów", "index.html", [
+  [ "Obsługa Lotnisk", "index.html", [
     [ "Klasy", "annotated.html", [
       [ "Lista klas", "annotated.html", "annotated_dup" ],
       [ "Indeks klas", "classes.html", null ],

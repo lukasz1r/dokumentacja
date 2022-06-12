@@ -1,4 +1,5 @@
 <map id="Klient" name="Klient">
-<area shape="rect" id="node1" title=" " alt="" coords="15,145,131,281"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,140,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="15,285,131,451"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,145,140,223"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,5,94,83"/>
 </map>

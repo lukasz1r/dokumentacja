@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['trasy_0',['Trasy',['../class_baza_danych.html#a4ca0cae666f22567e76e343aec669384',1,'BazaDanych']]]
+  ['odleglosc_0',['odleglosc',['../class_trasa.html#ada068e76b8985123afb7ea567b097172',1,'Trasa']]]
 ];

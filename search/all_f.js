@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['zakup_0',['zakup',['../class_trasa.html#a922c73e2e28a7cc1bfd55869df225954',1,'Trasa']]],
-  ['zapis_1',['zapis',['../class_komendy.html#ad00a7152d326d3188462a1235d97bbeb',1,'Komendy']]],
-  ['zasieg_2',['zasieg',['../class_maszyna.html#a2c4dc22154d74fba806e3c7207938342',1,'Maszyna']]]
+  ['wczytywanie_0',['wczytywanie',['../class_komendy.html#ad82f1e5e917657e5f05edcde5d8b439e',1,'Komendy']]],
+  ['wielkisamolot_1',['WielkiSamolot',['../class_wielki_samolot.html',1,'WielkiSamolot'],['../class_wielki_samolot.html#acc6512ebaef2a9c7b76003aedffc7f76',1,'WielkiSamolot.WielkiSamolot()']]],
+  ['wielkisamolot_2ejava_2',['WielkiSamolot.java',['../_wielki_samolot_8java.html',1,'']]],
+  ['wybierzuzytkownika_3',['wybierzUzytkownika',['../class_komendy.html#a186ddaa14e107b8d200ff6f79b569784',1,'Komendy']]],
+  ['wykupioneloty_4',['wykupioneLoty',['../class_klient.html#a81bc3048367ad630804cf6734e55cb34',1,'Klient.wykupioneLoty()'],['../class_posrednik.html#aff21930d148890a14c1e1eaeefa8ddb9',1,'Posrednik.wykupioneLoty()']]]
 ];

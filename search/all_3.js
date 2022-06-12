@@ -25,5 +25,6 @@ var searchData=
   ['gettrasy_22',['getTrasy',['../class_baza_danych.html#a0606ea25edd150166587a3c7bea1c2dc',1,'BazaDanych']]],
   ['getx_23',['getX',['../class_lotnisko.html#aea3418556f71c8923623dccfdeb26e8f',1,'Lotnisko.getX()'],['../class_pomoc.html#a99475ee6587e9149604d2e29e4cc041e',1,'Pomoc.getX()']]],
   ['gety_24',['getY',['../class_lotnisko.html#a44683abce4554ccdc3a384ba5be8d974',1,'Lotnisko.getY()'],['../class_pomoc.html#a4fe4246ec07ce198344032e22a3588ce',1,'Pomoc.getY()']]],
-  ['getzasieg_25',['getZasieg',['../class_maszyna.html#aa8dd1ddde7dbcfe1e1f8840c3a52cb1c',1,'Maszyna']]]
+  ['getzasieg_25',['getZasieg',['../class_maszyna.html#aa8dd1ddde7dbcfe1e1f8840c3a52cb1c',1,'Maszyna']]],
+  ['godzina_26',['godzina',['../class_czas.html#ad5b0f584d322c7e2c458e8dd8af2a688',1,'Czas']]]
 ];

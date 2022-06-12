@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['usunklienta_0',['usunKlienta',['../class_komendy.html#a5b931d60623812263fdbfeeb1a2b566c',1,'Komendy']]],
-  ['usunlotnisko_1',['usunLotnisko',['../class_komendy.html#a8c09ee059954d91838decaf2709fc519',1,'Komendy']]],
-  ['usunposrednika_2',['usunPosrednika',['../class_komendy.html#a8570b6d3c458843c28dafcd756230725',1,'Komendy']]],
-  ['usunsamolot_3',['usunSamolot',['../class_komendy.html#acbbf5f1b32a566c72a249bfa26d4ae49',1,'Komendy']]],
-  ['usuntrase_4',['usunTrase',['../class_komendy.html#a9224d961bb7fad653f80b0d0217da84d',1,'Komendy']]]
+  ['tostring_0',['toString',['../class_czas.html#a079abeac995d47c272cb95ca338c1867',1,'Czas.toString()'],['../class_lotnisko.html#a6a357a62146f0e09bfc2b209ece07d66',1,'Lotnisko.toString()'],['../class_rezerwacja.html#a94036f17d713998c0271c48c35ff6ddc',1,'Rezerwacja.toString()'],['../class_trasa.html#acd6495e6704e815a67c34879f00f0211',1,'Trasa.toString()']]],
+  ['trasa_1',['Trasa',['../class_trasa.html',1,'Trasa'],['../class_trasa.html#a20147b45dd44d12039e304ce5a95ab0b',1,'Trasa.Trasa()']]],
+  ['trasa_2',['trasa',['../class_rezerwacja.html#a4c4dde940315b828c158a43118b6fa65',1,'Rezerwacja']]],
+  ['trasa_2ejava_3',['Trasa.java',['../_trasa_8java.html',1,'']]],
+  ['trasy_4',['Trasy',['../class_baza_danych.html#a4ca0cae666f22567e76e343aec669384',1,'BazaDanych']]]
 ];

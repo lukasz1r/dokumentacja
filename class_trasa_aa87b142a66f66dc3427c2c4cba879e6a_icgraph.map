@@ -1,0 +1,7 @@
+<map id="Trasa.getKoniec" name="Trasa.getKoniec">
+<area shape="rect" id="node1" title=" " alt="" coords="365,56,481,83"/>
+<area shape="rect" id="node2" href="$class_posrednik.html#aec3b936c144f1c5e5103b74f1814f689" title=" " alt="" coords="152,5,317,32"/>
+<area shape="rect" id="node3" href="$class_klient.html#a7855db707649e6b89639aa406c58c663" title=" " alt="" coords="172,56,297,83"/>
+<area shape="rect" id="node4" href="$class_komendy.html#a9224d961bb7fad653f80b0d0217da84d" title=" " alt="" coords="164,107,305,133"/>
+<area shape="rect" id="node5" href="$class_interfejs.html#ae2b210df31de22f230f46011fd1943d1" title=" " alt="" coords="5,107,104,133"/>
+</map>

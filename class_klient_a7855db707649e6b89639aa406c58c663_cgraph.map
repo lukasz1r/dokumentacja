@@ -1,0 +1,7 @@
+<map id="Klient.rezerwujLot" name="Klient.rezerwujLot">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,131,108"/>
+<area shape="rect" id="node2" href="$class_trasa.html#aa87b142a66f66dc3427c2c4cba879e6a" title=" " alt="" coords="187,5,303,32"/>
+<area shape="rect" id="node3" href="$class_lotnisko.html#ae2b0733da7003206dfb84857c23dcd32" title=" " alt="" coords="179,56,311,83"/>
+<area shape="rect" id="node4" href="$class_trasa.html#a1c6845c408e9034375569d05c052490c" title=" " alt="" coords="179,107,310,133"/>
+<area shape="rect" id="node5" href="$class_trasa.html#a922c73e2e28a7cc1bfd55869df225954" title=" " alt="" coords="198,157,291,184"/>
+</map>

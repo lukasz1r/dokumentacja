@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_maszyna.html" title=" " alt="" coords="5,81,80,108"/>
+<area shape="rect" id="node2" href="$class_duzy_samolot.html" title=" " alt="" coords="131,5,231,32"/>
+<area shape="rect" id="node3" href="$class_maly_samolot.html" title=" " alt="" coords="132,56,231,83"/>
+<area shape="rect" id="node4" href="$class_sredni_samolot.html" title=" " alt="" coords="128,107,235,133"/>
+<area shape="rect" id="node5" href="$class_wielki_samolot.html" title=" " alt="" coords="128,157,235,184"/>
+</map>
